@@ -5,7 +5,7 @@
 政府系オープンデータを使った簡単データ分析サイトの登録画面
 
 # ③DEMO
-http//gs1.sakura.ne.jp/kadai_php01/resister.php
+https//gs1.sakura.ne.jp/kadai_php01/resister.php
 
 この先の自動遷移はなぜかしてくれません・・・
 
