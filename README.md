@@ -14,7 +14,9 @@ https//gs1.sakura.ne.jp/kadai_php01/resister.php
 ⑤工夫した点・こだわった点
 ・resister：入力した初期情報をPHPMyAdminのusersDBへ格納
 ・login：login情報をPHPMyAdmin内のusersDBの情報と突合し、PHPMyAdminのuser_loginのDBへ格納
+
 ・select_data：userが突合・解析に使いたい自身のcsvデータをUploadしたら、PHPMyAdminのselect_dataのDB内に格納
+
 ・analyze_data：userが自身が登録したデータとe-Statで公表されているデータをAPI連携させ、自動解析(ここは指示出しと結果出力までは上手くできずAPI連携成功のみ確認)
 
 ⑥難しかった点・次回トライしたいこと(又は機能)
