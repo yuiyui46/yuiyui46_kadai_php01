@@ -13,7 +13,7 @@ https://gs1.sakura.ne.jp/kadai_php01/resister.php
 なし
 
 # ⑤工夫した点・こだわった点
-・resister：入力した初期情報をPHPMyAdminのusersDBへ格納
+・register：入力した初期情報をPHPMyAdminのusersDBへ格納
 
 ・login：login情報をPHPMyAdmin内のusersDBの情報と突合し、PHPMyAdminのuser_loginのDBへ格納
 
