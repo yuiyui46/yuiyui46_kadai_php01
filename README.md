@@ -9,6 +9,10 @@ https://gs1.sakura.ne.jp/kadai_php01/register.php
 
 この先の自動遷移はなぜかしてくれません・・・
 
+https://gs1.sakura.ne.jp/kadai_php01_fz/register.php
+
+20240628こちらで修正しました
+
 # ④作ったアプリケーション用のIDまたはPasswordがある場合
 なし
 
